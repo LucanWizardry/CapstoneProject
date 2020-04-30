@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelUserStore">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>Assets</Path>
+      <Path>Library/PackageCache/com.unity.ads@2.0.8</Path>
+      <Path>Library/PackageCache/com.unity.analytics@3.3.2</Path>
+      <Path>Library/PackageCache/com.unity.collab-proxy@1.2.16</Path>
+      <Path>Library/PackageCache/com.unity.ext.nunit@1.0.0</Path>
+      <Path>Library/PackageCache/com.unity.ide.rider@1.1.0</Path>
+      <Path>Library/PackageCache/com.unity.ide.vscode@1.1.0</Path>
+      <Path>Library/PackageCache/com.unity.purchasing@2.0.6</Path>
+      <Path>Library/PackageCache/com.unity.test-framework@1.0.13</Path>
+      <Path>Library/PackageCache/com.unity.textmeshpro@2.0.1</Path>
+      <Path>Packages</Path>
+      <Path>ProjectSettings</Path>
+    </explicitIncludes>
+    <explicitExcludes>
+      <Path>.idea</Path>
+      <Path>Build_2019_11_11_0411.app</Path>
+      <Path>Build_2019_11_11_1630.app</Path>
+      <Path>Build_2019_11_11_1700.app</Path>
+      <Path>Build_2019_11_11_1721.app</Path>
+      <Path>Build_2019_11_12_0953.app</Path>
+      <Path>Build_2019_11_12_1500.app</Path>
+      <Path>Game Builds</Path>
+      <Path>Library</Path>
+      <Path>obj</Path>
+    </explicitExcludes>
+  </component>
+</project>

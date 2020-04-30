@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d37902fa-fb3e-45ea-a64e-4df03f6534c4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Computer Scripts/InputPinScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Fonts/SFDistantGalaxyFontShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Computer Scripts/FootageButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Computer Scripts/ComputerTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ASceneTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Library/Mobile Documents/com~apple~CloudDocs/Unity/Game Development Fall 2019/animationDemo_init/Assets/Hero.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FPS_Script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Library/Mobile Documents/com~apple~CloudDocs/Unity/Game Development Fall 2019/schmup/Assets/_Scripts/Enemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file:///Applications/Unity/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AirlockTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Door Triggers/DoorWorking.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Door Triggers/DoorBroken.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Fonts/FontShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Computer Scripts/ButtonScriptControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Library/Mobile Documents/com~apple~CloudDocs/Unity/Game Development Fall 2019/schmup/Assets/_Scripts/Enemy_1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Computer Scripts/Encryption.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Computer Scripts/ComputerPanel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ComputerPanel1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interactable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Computer Scripts/Interactable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Computer Scripts/ExitButton.cs" />
+        <option value="$PROJECT_DIR$/Temp/GeneratedFromSurface-Custom-FontShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Computer Scripts/ComputerPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Computer Scripts/ButtonScriptControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Computer Scripts/ComputerTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DoorOpen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Fonts/SFDistantGalaxyFontShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Door Triggers/Elevator Door.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Door Triggers/DoorOpen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Door Triggers/DoorBroken.cs" />
+        <option value="$PROJECT_DIR$/Assets/Open.cs" />
+        <option value="$PROJECT_DIR$/Assets/EncryptionInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Computer Scripts/Encryption.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Computer Scripts/InputPinScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Door Triggers/DoorWorking.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FPS_Script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VideoTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ASceneTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AirlockTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DecryptionPinScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Computer Scripts/FootageButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SX7w8AwfUC61nSpbjePxA3acFk" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d37902fa-fb3e-45ea-a64e-4df03f6534c4" name="Default Changelist" comment="" />
+      <created>1571698323081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571698323081</updated>
+      <workItem from="1571698332002" duration="3247000" />
+      <workItem from="1571929640682" duration="3042000" />
+      <workItem from="1572012604590" duration="129000" />
+      <workItem from="1572103402846" duration="324000" />
+      <workItem from="1572186861297" duration="2464000" />
+      <workItem from="1572295421249" duration="214000" />
+      <workItem from="1572348095529" duration="2771000" />
+      <workItem from="1572637450994" duration="311000" />
+      <workItem from="1572708785560" duration="933000" />
+      <workItem from="1572911933604" duration="6568000" />
+      <workItem from="1573042818769" duration="4371000" />
+      <workItem from="1573061160785" duration="4960000" />
+      <workItem from="1573132786861" duration="3676000" />
+      <workItem from="1573157881076" duration="19793000" />
+      <workItem from="1573323981798" duration="1279000" />
+      <workItem from="1573397211709" duration="5051000" />
+      <workItem from="1573466300746" duration="3701000" />
+      <workItem from="1573498245079" duration="3467000" />
+      <workItem from="1573576733079" duration="625000" />
+      <workItem from="1573595662524" duration="184000" />
+      <workItem from="1574012094771" duration="2193000" />
+      <workItem from="1574139716094" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
