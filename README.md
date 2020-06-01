@@ -6,3 +6,11 @@ The gametype is exploration and narrative. The player wakes up on an abandoned s
 ## Technical
 I made BG with two other students. We used Unity and C# for the game development.
 The original soundtrack was made using Logic Pro X and the voice actors were recorded using Logic Pro X as well. The appropriated sound effects are from freesound.org.
+The physical assets are from the Unity Store or made using Rhino.
+
+## Updated Goal
+My plan with reviving my old project is to improve the game to the point that it is worthy of an itch.io page.
+The steps of this project are as follows:
+  1. removed copyrighted material and replace it with creative commons or original work
+  2. improve the visuals and audio already present
+  3. add more narrative points
